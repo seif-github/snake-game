@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub_Repos\\snake-game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5238292D-3607-466A-8AEA-653B430159D3}|SnakeGame\\SnakeGame.csproj|d:\\github_repos\\snake-game\\snakegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5238292D-3607-466A-8AEA-653B430159D3}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5238292D-3607-466A-8AEA-653B430159D3}|SnakeGame\\SnakeGame.csproj|D:\\GitHub_Repos\\snake-game\\snakegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5238292D-3607-466A-8AEA-653B430159D3}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5238292D-3607-466A-8AEA-653B430159D3}|SnakeGame\\SnakeGame.csproj|D:\\GitHub_Repos\\snake-game\\snakegame\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5238292D-3607-466A-8AEA-653B430159D3}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5238292D-3607-466A-8AEA-653B430159D3}|SnakeGame\\SnakeGame.csproj|D:\\GitHub_Repos\\snake-game\\snakegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5238292D-3607-466A-8AEA-653B430159D3}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\GitHub_Repos\\snake-game\\SnakeGame\\Form1.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Form1.cs",
+              "ToolTip": "D:\\GitHub_Repos\\snake-game\\SnakeGame\\Form1.cs",
+              "RelativeToolTip": "SnakeGame\\Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:59:49.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub_Repos\\snake-game\\SnakeGame\\Program.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Program.cs",
+              "ToolTip": "D:\\GitHub_Repos\\snake-game\\SnakeGame\\Program.cs",
+              "RelativeToolTip": "SnakeGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:58:03.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\GitHub_Repos\\snake-game\\SnakeGame\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Form1.Designer.cs",
+              "ToolTip": "D:\\GitHub_Repos\\snake-game\\SnakeGame\\Form1.Designer.cs",
+              "RelativeToolTip": "SnakeGame\\Form1.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAIA9wDEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:57:21.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GitHub_Repos\\snake-game\\SnakeGame\\Form1.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Form1.cs",
+              "ToolTip": "D:\\GitHub_Repos\\snake-game\\SnakeGame\\Form1.cs [Design]",
+              "RelativeToolTip": "SnakeGame\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:57:10.6Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
