@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace snake_game.Properties
+namespace SnakeGame.Properties
 {
 
 

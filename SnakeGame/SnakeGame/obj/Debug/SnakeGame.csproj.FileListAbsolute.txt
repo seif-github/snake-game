@@ -1,0 +1,12 @@
+D:\GitHub_Repos\snake-game\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.AssemblyReference.cache
+D:\GitHub_Repos\snake-game\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Form1.resources
+D:\GitHub_Repos\snake-game\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+D:\GitHub_Repos\snake-game\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.cache
+D:\GitHub_Repos\snake-game\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+D:\GitHub_Repos\snake-game\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+D:\GitHub_Repos\snake-game\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+D:\GitHub_Repos\snake-game\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+D:\GitHub_Repos\snake-game\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+D:\GitHub_Repos\snake-game\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
+D:\GitHub_Repos\snake-game\SnakeGame\SnakeGame\bin\Debug\sfx\eat.wav
+D:\GitHub_Repos\snake-game\SnakeGame\SnakeGame\bin\Debug\sfx\gameover.wav
