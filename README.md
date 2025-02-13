@@ -33,3 +33,4 @@ A classic Snake game implemented in **C# Windows Forms**. This project was devel
    git clone https://github.com/your-username/snake-game.git
 
 2. Open `SnakeGame\bin\Debug\SnakeGame.exe`
+3. Enjoy! ✨
